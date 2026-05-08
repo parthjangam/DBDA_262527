@@ -1,0 +1,3 @@
+Cloud computing refers to virtualization of computing resources and using them by paying them as much as you 
+use them. This makes cloud computing cheaper alternatives to physical servers
+  
